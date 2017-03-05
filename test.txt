@@ -1,0 +1,4 @@
+1
+words
+test.cfg
+5
